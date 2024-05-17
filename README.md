@@ -1,7 +1,7 @@
-echo "# X-O_Game" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/abdoute/X-O_Game.git
-git push -u origin main
+        king: 'images/black_king.png',
+        queen: 'images/black_queen.png',
+        rook: 'images/black_rook.png',
+        bishop: 'images/black_bishop.png',
+        knight: 'images/black_knight.png',
+        pawn: 'images/black_pawn.png'
+    }
